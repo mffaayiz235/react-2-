@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.calculator-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.result {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: left;
+  margin-top: 20px;
+  overflow-x: auto;
+}
+
+pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+} 
